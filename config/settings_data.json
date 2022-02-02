@@ -29,7 +29,7 @@
     "sale_type": "percentage",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#444444",
+    "color_announcement_bg": "#ff891d",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -174,190 +174,6 @@
     "sections": {
       "dbtfy-upsell-popup": {
         "type": "dbtfy-upsell-popup",
-        "blocks": {
-          "cb90f637-fdee-4a2d-8c8f-b899a98bf80b": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng din bh:s livslängd för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Anodyne® bh!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "anodyne-bh",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-bh",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "07064804-e891-456b-8679-4d6671f9a7e2": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-svart",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "ecdcb9ae-1855-472d-8601-d19297397fd7": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-vit",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "d743dc86-850e-4683-ac19-f40748c8f653": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-zipper-svart",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "36a3b8c7-5516-4002-b889-e15ef0e7495f": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-zipper-vit",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "debf8e91-1986-403c-8443-71c508eaae52": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-mint",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "2422b557-ad2b-4051-99f6-e8dd698e1b3b": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "bb9531ea-f501-444b-87dc-633cd70ef592": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-svart",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "53ffdd42-3ae7-4d88-ab3c-0546ad6de470": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-vit",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "ed79a22a-015e-4a38-b263-5f210d07527c": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "17c50042-fa14-4482-86d6-20ca9c509b44": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-svart",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "331fb671-426a-42ef-ae07-b3000064df27": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Förläng livslängden på din Posture Shirt® för endast 29 kr.",
-              "dbtfy_upsell_popup_text": "<p>Lägg till en tvättpåse och förläng livslängden på din Posture Shirt®!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-vit",
-              "dbtfy_upsell_popup_product_offer": "tvattpase-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lägg till i varukorgen - 29 kr.",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          }
-        },
-        "block_order": [
-          "cb90f637-fdee-4a2d-8c8f-b899a98bf80b",
-          "07064804-e891-456b-8679-4d6671f9a7e2",
-          "ecdcb9ae-1855-472d-8601-d19297397fd7",
-          "d743dc86-850e-4683-ac19-f40748c8f653",
-          "36a3b8c7-5516-4002-b889-e15ef0e7495f",
-          "debf8e91-1986-403c-8443-71c508eaae52",
-          "2422b557-ad2b-4051-99f6-e8dd698e1b3b",
-          "bb9531ea-f501-444b-87dc-633cd70ef592",
-          "53ffdd42-3ae7-4d88-ab3c-0546ad6de470",
-          "ed79a22a-015e-4a38-b263-5f210d07527c",
-          "17c50042-fa14-4482-86d6-20ca9c509b44",
-          "331fb671-426a-42ef-ae07-b3000064df27"
-        ],
         "settings": {
           "dbtfy_upsell_popup_width": "",
           "dbtfy_upsell_popup_description": "See product details",
@@ -427,6 +243,142 @@
       },
       "dbtfy-cart-upsell": {
         "type": "dbtfy-cart-upsell",
+        "blocks": {
+          "33beb97e-297c-4ddd-9279-6ab60ce61c38": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "2ace8bd7-89a2-4acb-8010-733a0e1f7c43": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-svart",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "19869979-297a-435e-a901-1c97c3e0bb8c": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-svart",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "35741ffc-3fe7-4ccf-b498-8575c760768b": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-vit",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "ecce932d-3e47-42bb-8068-c584ab67e6ad": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-vit",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "9cde6677-29ff-400c-8e17-09be7434ab39": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "502084fd-c2d1-44b7-b6bd-bc458996bb9d": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "8fd277c9-ccea-490e-bccf-952aaf3cb12c": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-svart",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "bf05a613-904d-48a2-bad3-6c30df7fdeae": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-svart",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "bfb8d73e-905f-4a7d-b979-1c2984013763": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-vit",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "97fdfc81-ac04-48fa-8650-2fcbca983c40": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-vit",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "ef2652fc-393e-4a61-8a87-a92ee9e01caa": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Vill du spara<strong> 50 %<\/strong> på en Hållningssele Basic (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          }
+        },
+        "block_order": [
+          "33beb97e-297c-4ddd-9279-6ab60ce61c38",
+          "2ace8bd7-89a2-4acb-8010-733a0e1f7c43",
+          "19869979-297a-435e-a901-1c97c3e0bb8c",
+          "35741ffc-3fe7-4ccf-b498-8575c760768b",
+          "ecce932d-3e47-42bb-8068-c584ab67e6ad",
+          "9cde6677-29ff-400c-8e17-09be7434ab39",
+          "502084fd-c2d1-44b7-b6bd-bc458996bb9d",
+          "8fd277c9-ccea-490e-bccf-952aaf3cb12c",
+          "bf05a613-904d-48a2-bad3-6c30df7fdeae",
+          "bfb8d73e-905f-4a7d-b979-1c2984013763",
+          "97fdfc81-ac04-48fa-8650-2fcbca983c40",
+          "ef2652fc-393e-4a61-8a87-a92ee9e01caa"
+        ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
         }
@@ -485,8 +437,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><strong>+150 000<\/strong> nöjda kunder i Skandinavien 🇸🇪 🇩🇰 🇳🇴<\/p>",
-              "announcement_counter": "",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.se\/pages\/anodyne-rabattkode\" title=\"https:\/\/www.anodyne.se\/pages\/anodyne-rabattkode\"><strong>Få en rabattkod - Klicka här<\/strong><\/a><\/p>",
+              "announcement_counter": "https:\/\/www.anodyne.se\/pages\/anodyne-rabattkode",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
