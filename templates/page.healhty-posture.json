@@ -1,0 +1,189 @@
+{
+  "sections": {
+    "1637330665f57781eb": {
+      "type": "featured-image",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Artboard_2.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>God hållning<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "1635768531cb520ba5": {
+      "type": "mission",
+      "blocks": {
+        "1635768531cb520ba5-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "<div style=\"padding-top:30px\"><h1>Fördelar med god hållning<\/h1><\/div>",
+            "mission_description": "<div style=\"padding-left:20px;padding-right:20px\">\n<p>De flesta av oss vet att en hälsosam hållning är viktig oavsett om vi sitter, står eller rör oss. Men varför? Det finns många anledningar till varför du bör bry dig om din hållning. Här har vi belyst de sex viktigaste fysiska och mentala fördelarna med en hälsosam hållning.<\/p>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635768531cb520ba5-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "16357615190b1aea37": {
+      "type": "HTML-columns",
+      "blocks": {
+        "16357615190b1aea37-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Lindrar smärta\n<\/h2>\n<p>Hälsosam hållning kan lindra spänningar och smärta i rygg, axlar och nacke.<\/p>\n<\/div>",
+            "column_width_1": 4,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Förhindrar skador<\/h2>\n<p>Hjälper till att förhindra att du får problem med smärta i framtiden.<\/p>\n<\/div>",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Avslappnar kroppen<\/h2>\n<p>Slappnar av stressade muskelgrupper och lindrar spänningar i ryggen.<\/p>\n<\/div>",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/bLg6Mnn\/Smile.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Förbättrar humöret <\/h2>\n<p>Hälsosam hållning bidrar till ett bättre humör och mer energi i vardagen.<\/p>\n<\/div>",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/KV56kZB\/Radiance.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Förbättrar utseendet<\/h2>\n<p>Bra hållning förbättrar vårt utseende och lämnar ett gott intryck.<\/p>\n<\/div>",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BsTXCGL\/Confidence.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Ökar självförtroendet<\/h2>\n<p>En hälsosam hållning får oss att känna oss mer självsäkra.<\/p>\n<\/div>",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16357615190b1aea37-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16357631254fec40e6": {
+      "type": "featured-html-columns",
+      "blocks": {
+        "16357631254fec40e6-0": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Traening.jpg",
+            "title": "Motions- och styrketräning",
+            "text": "<p>Snäva och svaga muskler är ofta orsaken till dålig hållning, eftersom de inte kan hålla överkroppen på plats.\nDet är därför stretching och  styrketräning övningar och är ett bra sätt att förbättra hållningen. Om du behöver några enkla vardagsövningar har vi nyligen producerat en video med effektiva övningar i samarbete med kiropraktor Michael Justad.\n<br><br>\n<\/p>",
+            "button_style": "btn-outline-primary",
+            "button_label": "Titta på video",
+            "button_link": "shopify:\/\/pages\/spanningsovningar"
+          }
+        },
+        "16357631254fec40e6-1": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_woman_and_man_0003_720x480_30fea958-6a22-44f6-8098-702f38400baa.jpg",
+            "title": "Kläder som korrigerar hållningen",
+            "text": "<p>Många människor har svårt att komma ihåg bra hållning i vardagen, vilket har gjort hållningskorrigering av kläder till en mycket populär lösning. Vår bästsäljande produkt är vår Posture Shirt™, som använder ett mjukt drag på axelremmen för att påminna dig om att räta upp när axlarna börjar luta. Flexibiliteten i posture shirt gör den effektiv och bekväm att bära - både när man sitter och är fysiskt aktiv.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "Se Urval",
+            "button_link": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "16357631254fec40e6-2": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mand_i_sofa_med_skulderstotte_720x480_0e542df2-a9ea-4371-ab3f-2dcbd0c2aa65.jpg",
+            "title": "Andra hållningsprodukter",
+            "text": "<p>Förutom vår Posture Shirt™ säljer vi även en rad andra hållningskorrigerande produkter, såsom hållningssele, ryggsbälten och ryggkuddar. Dessa produkter är främst lämpliga för användning i sittande och stående situationer där kroppsrörelser är begränsade - till exempel sittande vid ett skrivbord, i soffan eller vid tillagning av mat.\n<br>\n<br>\n<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "Se Urval",
+            "button_link": "shopify:\/\/collections\/ryggstod"
+          }
+        }
+      },
+      "block_order": [
+        "16357631254fec40e6-0",
+        "16357631254fec40e6-1",
+        "16357631254fec40e6-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Hur förbättrar du din hållning?",
+        "subtitle": "",
+        "section_style": "section-default",
+        "text_align": ""
+      }
+    },
+    "163576830859681535": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bästsäljare",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "alla-produkter",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "1637330665f57781eb",
+    "1635768531cb520ba5",
+    "16357615190b1aea37",
+    "16357631254fec40e6",
+    "163576830859681535"
+  ]
+}

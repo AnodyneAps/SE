@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "16371463083c195029": {
+      "type": "HTML-columns",
+      "blocks": {
+        "1637146308aef33c77-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1637146308aef33c77-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "<br><h1>Posture Shirt eller Hållningssele?<\/h1>",
+        "subtitle": "<div style=\"margin-bottom:-60px\">Är du osäker på om du ska välja en Posture Shirt™ eller en hållningssele? På den här sidan kan du läsa mer om skillnader och likheter mellan produkterna.<\/div>",
+        "section_style": "section-blank"
+      }
+    },
+    "16358542128541f953": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
+        "section_style": "section-default",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Varför välja en Posture Shirt™?",
+        "text": "<p>Välj en Posture Shirt™ om du vill ha en produkt med hög komfort som ger support hela dagen.<\/p><p>• Förbättrar kroppshållning<br\/>• Ökar hållningsmedvetenheten<br\/>• Aktiverar musklerna<br\/>• Ger fri rörlighet<br\/>• Dokumenterad effekt på smärtlindring och spänningar<br\/><\/p><p>Kan användas <strong>hela dagen<\/strong> (gradvis tillvänjning):<br\/><\/p><p>• Sittande<br\/>• Ståendes<br\/>• Genom fysisk aktivitet<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Se urval",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "16358545190198e666": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Brace.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Varför välja en Hållningssele?",
+        "text": "<p>Välj en Hållningssele om du vill ha en produkt som du kan använda under kortare perioder under dagen.<\/p><p>• Förbättrar kroppshållningen<br\/>• Stabiliserar och avlastar<br\/>• Kan lindra smärta och spänning<\/p><p>Kan användas <strong>30-60 min.<\/strong> efter behov:<\/p><p>• Sittande<br\/>• Ståendes<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Se urval",
+        "button_link": "shopify:\/\/collections\/ryggstod"
+      }
+    },
+    "1638191989e322b018": {
+      "type": "featured-content",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Jämförelse av produkterna",
+        "text": "<p>Båda produkterna hjälper till att förbättra din hållning, men de arbetar med musklerna på olika sätt. En Posture Shirt™ går in med sin unika NeuroBand™-teknik och aktiverar och stimulerar dina muskler och det ökar kroppsmedvetenheten så att din kropp gradvis uppnår en bättre hållning under tiden du bär den. En hållningssele stabiliserar och lindrar, men bara under den period du bär den.<\/p><p>Sammantaget rekommenderar vi att du väljer en Posture Shirt™ om du vill ha en produkt med hög komfort som ger dig support hela dagen. En hållningssele kan väljas med fördel om du bara vill ha stöd under kortare perioder under dagen.<\/p>",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "text_alignment": "text-center",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "16371463083c195029",
+    "16358542128541f953",
+    "16358545190198e666",
+    "1638191989e322b018"
+  ]
+}
