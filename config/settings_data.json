@@ -1202,7 +1202,7 @@
             "settings": {
               "card__icon": "shopify:\/\/shop_images\/Customerservice_copy.png",
               "title": "Kundservice",
-              "text": "<p>Kontakta oss på <a href=\"tel:(+46) 313 616 037\">(+46) 313 616 037<\/a> eller <a href=\"mailto:info@anodyne.se\">info@anodyne.se<\/a>, om du behöver ytterligare information eller hjälp. Vi hjälper gärna till.<\/p>",
+              "text": "<p>Kontakta oss på <a href=\"tel:(+45) 5389 0017\" title=\"tel:(+45) 5389 0017\">+45 5389 0017<\/a> eller <a href=\"mailto:info@anodyne.se\">info@anodyne.se<\/a>, om du behöver ytterligare information eller hjälp. Vi hjälper gärna till.<\/p>",
               "card__alignement": "center",
               "text_alignment": "text-center",
               "type_row": "",
