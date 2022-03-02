@@ -372,9 +372,29 @@
           "0fde1478-cf82-4936-865c-8d718b2b0ea4": {
             "type": "cart-upsell",
             "settings": {
-              "dbtfy_cart_general_upsell_title": "Vill du spara<strong> 40 %<\/strong> på en ergonomisk Ryggkudde (normalpris 645 kr.)?",
+              "dbtfy_cart_general_upsell_title": "Veckans erbjudande! Vill du spara<strong> 40 %<\/strong> på en ergonomisk Ryggkudde (normalpris 645 kr.)?",
               "dbtfy_cart_general_upsell_product_offer": "ergonomisk-ryggkudde",
               "dbtfy_cart_general_upsell_btn_title": "ja tack"
+            }
+          },
+          "e7e5d7d0-1617-49c3-93e1-bc5fab3e7ef0": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "277a1e31-57be-47a0-8d71-b01f9c76e36e": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           }
         },
@@ -391,7 +411,9 @@
           "bfb8d73e-905f-4a7d-b979-1c2984013763",
           "97fdfc81-ac04-48fa-8650-2fcbca983c40",
           "ef2652fc-393e-4a61-8a87-a92ee9e01caa",
-          "0fde1478-cf82-4936-865c-8d718b2b0ea4"
+          "0fde1478-cf82-4936-865c-8d718b2b0ea4",
+          "e7e5d7d0-1617-49c3-93e1-bc5fab3e7ef0",
+          "277a1e31-57be-47a0-8d71-b01f9c76e36e"
         ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
@@ -451,8 +473,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.se\/pages\/anodyne-rabattkode\" title=\"https:\/\/www.anodyne.se\/pages\/anodyne-rabattkode\"><strong>Få en rabattkod - KLICKA HÄR<\/strong><\/a><\/p>",
-              "announcement_counter": "https:\/\/www.anodyne.se\/pages\/anodyne-rabattkode",
+              "announcement_text": "<p>Veckans erbjudande slutar om: <\/p>",
+              "announcement_counter": "Mar 7, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
