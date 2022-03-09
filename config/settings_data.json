@@ -76,7 +76,7 @@
     "base_font_size": 15,
     "custom_quantity_breaks": true,
     "dbtfy_back_in_stock": true,
-    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
     "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
@@ -114,6 +114,10 @@
     "dbtfy_back_in_stock_success": "<p>Vi meddelar dig så snart produkten finns i lager igen.<\/p>",
     "dbtfy_back_in_stock_body_prefix": "Meddela mig när",
     "dbtfy_back_in_stock_body_suffix": "följande produkt är tillgänglig -",
+    "dbtfy_cart_countdown_time_mins": 20,
+    "dbtfy_cart_countdown_prefix": "Dina produkter är reserverade i",
+    "dbtfy_cart_countdown_icon_over": "Update",
+    "dbtfy_cart_countdown_msg_over": "Beställ innan dina artiklar är slut i lager",
     "dbtfy_cart_discount_label": "Rabattkod",
     "dbtfy_cart_discount_placeholder": "Använd din rabattkod här",
     "dbtfy_cart_discount_apply_button_label": "Använd rabattkod",
@@ -253,9 +257,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-bh",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -263,9 +267,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -273,9 +277,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -283,9 +287,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -293,9 +297,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -303,9 +307,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -313,9 +317,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -323,9 +327,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -333,9 +337,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -343,9 +347,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -353,9 +357,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -363,27 +367,19 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
-            }
-          },
-          "0fde1478-cf82-4936-865c-8d718b2b0ea4": {
-            "type": "cart-upsell",
-            "settings": {
-              "dbtfy_cart_general_upsell_title": "Veckans erbjudande! Vill du spara<strong> 40 %<\/strong> på en ergonomisk Ryggkudde (normalpris 645 kr.)?",
-              "dbtfy_cart_general_upsell_product_offer": "ergonomisk-ryggkudde",
-              "dbtfy_cart_general_upsell_btn_title": "ja tack"
             }
           },
           "e7e5d7d0-1617-49c3-93e1-bc5fab3e7ef0": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -391,10 +387,18 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
+            }
+          },
+          "90af8312-d071-4cc7-b91a-0397593dc5b3": {
+            "type": "cart-upsell",
+            "settings": {
+              "dbtfy_cart_general_upsell_title": "En tvättpåse skyddar kläder och tyger från att gå sönder eller bli uttöjda i tvättmaskinen.",
+              "dbtfy_cart_general_upsell_product_offer": "tvattpase-posture-shirt",
+              "dbtfy_cart_general_upsell_btn_title": "ja tack"
             }
           }
         },
@@ -411,9 +415,9 @@
           "bfb8d73e-905f-4a7d-b979-1c2984013763",
           "97fdfc81-ac04-48fa-8650-2fcbca983c40",
           "ef2652fc-393e-4a61-8a87-a92ee9e01caa",
-          "0fde1478-cf82-4936-865c-8d718b2b0ea4",
           "e7e5d7d0-1617-49c3-93e1-bc5fab3e7ef0",
-          "277a1e31-57be-47a0-8d71-b01f9c76e36e"
+          "277a1e31-57be-47a0-8d71-b01f9c76e36e",
+          "90af8312-d071-4cc7-b91a-0397593dc5b3"
         ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
@@ -474,7 +478,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Veckans erbjudande slutar om: <\/p>",
-              "announcement_counter": "Mar 7, 2022 23:59:59",
+              "announcement_counter": "Mar 13, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }

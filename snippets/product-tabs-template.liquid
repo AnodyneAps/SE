@@ -587,10 +587,7 @@
                               {%- render "a6-bh-radios" -%}
                               {%- endif -%}
                           <!-- manual Qb check end  -->
-
                             {%- endif -%}
-
-
                           {%- render "dbtfy-inventory-quantity", product: product -%}
 
                           {%- if section.settings.quantity_enabled -%}
@@ -897,7 +894,6 @@
   "has_only_default_variant": {{ product.has_only_default_variant | json }}
 }
 </script>
-
 <script type="application/json" id="ModelJson-{{ section.id }}">
 {{ product.media | where: 'media_type', 'model' | json }}
 </script>
@@ -910,7 +906,7 @@
         $('.single-option-radio > input').removeAttr('checked'); 
         $('#AddToCart--product-tabs-template').click(function(event){
           if($('.single-option-radio > input:checked').length){
-          setTimeout(function(){$('.single-option-radio > input').removeAttr('checked'); $('.variant-label-option-value').html(""); }, 6000 );
+          setTimeout(function(){$('.single-option-radio > input').removeAttr('checked'); $('.variant-label-option-value').html(""); }, 3000 );
           } else {
           event.preventDefault()
           $("#not_select_id").html("<p id='not_select-m'> {{ 'products.sizes.choose-size-message' | t }}</p>"); 
