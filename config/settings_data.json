@@ -57,12 +57,12 @@
     "color_transparent_nav_text": "#f7f7f7",
     "opacity_overlay": 16,
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
-    "share_facebook": true,
-    "share_twitter": true,
-    "share_pinterest": true,
-    "share_whatsapp": true,
-    "share_linkedin": true,
-    "share_email": true,
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_whatsapp": false,
+    "share_linkedin": false,
+    "share_email": false,
     "share_messenger": false,
     "social_facebook_link": "https:\/\/www.facebook.com\/anodyne.se",
     "social_instagram_link": "https:\/\/www.instagram.com\/anodyne.se",
@@ -75,6 +75,7 @@
     "base_family": "avenir_next_n4",
     "base_font_size": 15,
     "custom_quantity_breaks": true,
+    "dbtfy_agree_to_terms": true,
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
@@ -108,6 +109,10 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
+    "dbtfy_agree_text": "<p>Jag accepterar Anodynes försäljningsvillkor och persondatapolicy<\/p>",
+    "dbtfy_agree_warning_text": "<p>Du måste acceptera<\/p>",
+    "dbtfy_agree_order_title": "Jag accepterar Anodynes försäljningsvillkor och persondatapolicy",
+    "dbtfy_agree_order_yes_answer": "Ja",
     "dbtfy_back_in_stock_richtext": "<p>Meddela mig när produkten finns i lager igen<\/p>",
     "dbtfy_back_in_stock_btn": "Meddela mig",
     "dbtfy_back_in_stock_btn_animation": true,
@@ -477,8 +482,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Veckans erbjudande slutar om: <\/p>",
-              "announcement_counter": "Mar 20, 2022 23:59:59",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\" title=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\"><strong>Spara upp till <\/strong><span style=\"text-decoration:underline\"><strong>40%<\/strong><\/span><strong> på alla produkter<\/strong><\/a><\/p>",
+              "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -889,7 +894,7 @@
               "title": "Snabb leverans",
               "description": "Och gratis frakt vid köp över 595 SEK.",
               "icon": "shopify:\/\/shop_images\/Truck.png",
-              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-returer"
+              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-frakt"
             }
           },
           "1630063768bdfa2f5f-1": {
@@ -898,7 +903,7 @@
               "title": "Fri retur och byte",
               "description": "Det är gratis att byta\/returnera alla produkter som du köper hos oss.",
               "icon": "shopify:\/\/shop_images\/Returns.png",
-              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-returer"
+              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-frakt"
             }
           },
           "66c69b66-4ba2-424e-a46c-68c81d83d5c4": {
@@ -907,7 +912,7 @@
               "title": "Pröva 100% gratis",
               "description": "Välj att betala inom 30 dagar eller om ett par månader.",
               "icon": "shopify:\/\/shop_images\/Smile2.png",
-              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-returer"
+              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-frakt"
             }
           },
           "3011a919-3be7-41c5-aa09-25734c19504d": {
@@ -916,7 +921,7 @@
               "title": "30 dagars full returrätt",
               "description": "Giltig från den dag du får dina produkter.",
               "icon": "shopify:\/\/shop_images\/Checkmark.png",
-              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-returer"
+              "uspLinkUrl": "shopify:\/\/pages\/leverans-och-frakt"
             }
           }
         },
@@ -1321,7 +1326,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Vad är hållningskorrigerande kläder från Anodyne® och hur fungerar det?",
-              "text": "<p>Hållningskorrigerande från Anodyne® är utformad för att stimulera muskelminnet och förbättra medvetenheten om din hållning. Posture Shirt™ och Posture Bra från Anodyne®<br\/>bidrar till skapandet av ett konstant informationsflöde som går fram och tillbaka mellan 20.000 till 80.000 nervreceptorer i en kvadratcentimeter av huden. Dessa nervreceptorer skickar signaler till hjärnan vilket leder till att spända muskler slappnar av, samtidigt som de mer inaktiva musklerna stimuleras och kontraheras. För att maximera effekten rekommenderar vi att du är fysiskt aktiv.<br\/><br\/><br\/><br\/><br\/><br\/><\/p>"
+              "text": "<p>Hållningskorrigerande från Anodyne® är utformad för att stimulera muskelminnet och förbättra medvetenheten om din hållning. Posture Shirt™ och Posture Bra från Anodyne®<br\/>bidrar till skapandet av ett konstant informationsflöde som går fram och tillbaka mellan 20.000 till 80.000 nervreceptorer i en kvadratcentimeter av huden. Dessa nervreceptorer skickar signaler till hjärnan vilket leder till att spända muskler slappnar av, samtidigt som de mer inaktiva musklerna stimuleras och kontraheras. För att maximera effekten rekommenderar vi att du är fysiskt aktiv.<\/p>"
             }
           },
           "5cefda40-0442-4c41-b351-b712606c68cf": {
@@ -1366,7 +1371,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Hur länge håller min Anodyne®-produkt?",
-              "text": "<p>Livslängden på din Anodyne-produkt beror på hur du behandlar plagget samt hur mycket du bär den. Liksom alla andra kläder, kommer dessa kläder också att visa tecken på slitage beroende på hur ofta du bär dem.<\/p><p>Det är viktigt att du följer klädvårdsinstruktionerna. Vi rekommenderar handtvätt, men det kan också maskintvättas, men inte mer än 30 grader. Produkten får inte torktumlas<br\/>eftersom det kommer att förstöra NeuroBands, vilket är den teknik som är inbyggd i plagget och det som kommer att supportera din kropp när din hållning inte är optimal.<\/p><p>Om du tar hand om produkten enligt vårdinstruktionerna bör produkten varas mellan 6 månader och 2 år.<\/p><p><br\/><br\/><br\/><br\/><br\/><br\/><br\/><br\/><br\/><br\/><br\/><\/p>"
+              "text": "<p>Livslängden på din Anodyne-produkt beror på hur du behandlar plagget samt hur mycket du bär den. Liksom alla andra kläder, kommer dessa kläder också att visa tecken på slitage beroende på hur ofta du bär dem.<\/p><p>Det är viktigt att du följer klädvårdsinstruktionerna. Vi rekommenderar handtvätt, men det kan också maskintvättas, men inte mer än 30 grader. Produkten får inte torktumlas<br\/>eftersom det kommer att förstöra NeuroBands, vilket är den teknik som är inbyggd i plagget och det som kommer att supportera din kropp när din hållning inte är optimal.<\/p><p>Om du tar hand om produkten enligt vårdinstruktionerna bör produkten varas mellan 6 månader och 2 år.<\/p>"
             }
           },
           "c107e97a-0d49-47f1-8c73-a4e1c7d244cb": {
@@ -1529,7 +1534,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Jag har fått fel produkt. Vad gör jag?",
-              "text": "<p>Anodynes lager packar tusentals produkter per år och det kan tyvärr hända att du får en felaktig produkt, till exempel pullovertröja, även om du har beställt en med dragkedja. Vi är naturligtvis mycket ledsna för det och ursäktar felet som uppstått. Fel som dessa kostar oss pengar eftersom vi måste betala för alla leveranser, så vi gör vårt allra bästa för att undvika dessa misstag. Om du är en av de olyckliga som detta händer för, använd den förbetalda etiketten i ditt paket och returnera produkten tillsammans med returformuläret som anger ditt namn, ordernummer och skäl för byte (helt enkelt att vi skickade du fel produkt) och vi kommer därefter att prioritera att sända en ny produkt skickad till dig utan dröjsmål.<\/p>"
+              "text": "<p>Anodynes lager packar tusentals produkter per år och det kan tyvärr hända att du får en felaktig produkt, till exempel pullovertröja, även om du har beställt en med dragkedja. Vi är naturligtvis mycket ledsna för det och ursäktar felet som uppstått. Fel som dessa kostar oss pengar eftersom vi måste betala för alla leveranser, så vi gör vårt allra bästa för att undvika dessa misstag. Om du är en av de olyckliga som detta händer för - allt du behöver göra är att fylla i dina uppgifter i vår <a href=\"\/pages\/returportal\" title=\"Returportal\">returportal<\/a>. <\/p>"
             }
           },
           "e9e634fe-e350-4048-ad3d-f391222811bf": {
@@ -1563,7 +1568,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Kan jag byta min beställda produkt (er)?",
-              "text": "<p>Ja, om du fortfarande är i din 30-dagars provperiod. Fyll i returformuläret med ditt namn, beställningsnummer och storleken du vill byta till, så behandlar vi det så snart som möjligt efter att vi har fått paketet. När du har fått din nya produkt börjar en ny 30-dagars<br\/>provperiod. Om du har några tvivel om din storlek, tveka inte att kontakta vår kundservice så att de kan hjälpa dig att välja rätt storlek så att du kan undvika flera byten!<\/p>"
+              "text": "<p>Ja, om du fortfarande är i din 30-dagars provperiod. Allt du behöver göra är att fylla i dina uppgifter i vår <a href=\"\/pages\/returportal\" title=\"Returportal\">returportal<\/a>. När du har fått din nya produkt börjar en ny 30-dagars provperiod. Om du har några tvivel om din storlek, tveka inte att kontakta vår kundservice så att de kan hjälpa dig att välja rätt storlek så att du kan undvika flera byten!<\/p>"
             }
           },
           "d8a3c4fe-0f53-417a-b3d9-4ad156ce6282": {
@@ -1572,7 +1577,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Kan jag returnera den eller de produkter jag har beställt?",
-              "text": "<p>Vi erbjuder en 30-dagars returrätt. Vad det betyder är att inom de första 30 dagarna kan du returnera vad du har beställt och få full återbetalning. Du kan använda returmärket som vi sände tillsammans med din ursprungliga försändelse. Vänligen fyll i returformuläret<br\/>med ditt namn, beställningsnummer och med information om varför du vill returnera produkten, detta för att vi ska veta om du önskar återbetalning eller om du vill byta ut produkten för en annan storlek eller annan produkt.<\/p>"
+              "text": "<p>Vi erbjuder en 30-dagars returrätt. Vad det betyder är att inom de första 30 dagarna kan du returnera vad du har beställt och få full återbetalning. Allt du behöver göra är att fylla i dina uppgifter i vår <a href=\"\/pages\/returportal\" title=\"Returportal\">returportal<\/a>. <\/p>"
             }
           },
           "af4aad2c-415f-4c59-8b87-d5e9bdce7cf5": {
@@ -1581,7 +1586,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Måste jag betala när jag vill byta ut något inom min 30-dagars provperiod?",
-              "text": "<p>Att skicka tillbaka din produkt är gratis. En förbetald etikett finns i din förpackning. I de flesta fall görs ett byte till en annan storlek men samma produkt och ingen återbetalning eller extra betalning behövs. Om du byter till en billigare produkt, kommer vi att skapa en återbetalning för mellanskillnaden. Om du vill byta ut din produkt till ett dyrare objekt måste du returnera din nuvarande produkt för återbetalning och kan sedan beställa den produkt du vill ha från vår hemsida.<\/p>"
+              "text": "<p>Att skicka tillbaka din produkt är gratis. I de flesta fall görs ett byte till en annan storlek men samma produkt och ingen återbetalning eller extra betalning behövs. Allt du behöver göra är att fylla i dina uppgifter i vår <a href=\"\/pages\/returportal\" title=\"Returportal\">returportal<\/a>. <\/p>"
             }
           },
           "9bc9706b-b7d2-4a91-af50-078fbea6c845": {
@@ -1590,7 +1595,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Hur returnerar jag min order?",
-              "text": "<p>Fyll i returformuläret med ditt namn, beställningsnummer och med information om du vill returnera produkten för återbetalning eller om du vill byta ut produkten för en annan storlek eller annan produkt. Vänligen använd den förbetalda returmärkning som vi sände i din ursprungliga försändelse.<\/p>"
+              "text": "<p>Allt du behöver göra är att fylla i dina uppgifter i vår <a href=\"\/pages\/returportal\" title=\"Returportal\">returportal<\/a>. <\/p>"
             }
           },
           "eaa78698-c7d8-4b53-8e21-ebd30cedf7c8": {
@@ -1599,7 +1604,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Betalar jag för att returnera eller byta ut en produkt?",
-              "text": "<p>Nej, vi ger dig en förbetald etikett (se till att du håller den hela provperioden på 30 dagar, eftersom vi inte kan ge dig en andra märkning). Placera etiketten på förpackningen du fått från oss och var noga med att inkludera returformuläret med ditt namn, beställningsnummer och skäl för retur (återbetalning eller utbyte) så vi ser till att ta hand om din retur så bra som möjligt när den når oss.<\/p>"
+              "text": "<p>Nej, allt du behöver göra är att fylla i dina uppgifter i vår <a href=\"\/pages\/returportal\" title=\"Returportal\">returportal<\/a>.<\/p>"
             }
           },
           "9bbcb10e-ddeb-4c3c-be86-3240632b1db0": {
@@ -1710,7 +1715,7 @@
               "image": "shopify:\/\/shop_images\/Checkmark.png",
               "icon": "",
               "title": "Hållningskorrigerande kläder med 100% kundnöjdhetsgaranti",
-              "text": "<p>På Anodyne® erbjuder vi alltid 100% kundnöjdhetsgaranti, 30 dagar gratis retur- och bytesrätt. Detta innebär att du inom 30 dagar fritt kan prova och testa din produkt för att ta reda på om den uppfyller dina förväntningar. Vi bifogar en gratis returetikett i alla leveranser, vilket gör det enkelt och enkelt att returnera eller byta. Vi strävar efter ha 100% nöjda kunder - vilket har varit vårt mål för de mer än 300 000 kunder i Europa som redan har köpt en original Anodyne®-produkt under de senaste fem åren. Färre än 1 av 20 kunder returnerar faktiskt sin produkt.<\/p>",
+              "text": "<p>På Anodyne® erbjuder vi alltid 100% kundnöjdhetsgaranti, 30 dagar gratis retur- och bytesrätt. Detta innebär att du inom 30 dagar fritt kan prova och testa din produkt för att ta reda på om den uppfyller dina förväntningar. Vi strävar efter ha 100% nöjda kunder - vilket har varit vårt mål för de mer än 300 000 kunder i Europa som redan har köpt en original Anodyne®-produkt under de senaste fem åren. Färre än 1 av 20 kunder returnerar faktiskt sin produkt.<\/p>",
               "button_style": "btn--primary"
             }
           },
