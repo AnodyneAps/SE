@@ -1172,6 +1172,8 @@
       "collection-template": {
         "type": "collection-template",
         "settings": {
+          "collection_stars": "shopify:\/\/shop_images\/tp_se_092d6fda-be88-47de-aeec-03b4787dc310.jpg",
+          "stars_url": "https:\/\/se.trustpilot.com\/search?query=Anodyne",
           "collection_tags_enable": false,
           "collection_tags_count": false,
           "collection_multiple_tags_filtering_enable": false,
@@ -1179,11 +1181,7 @@
           "tag_selector": "button",
           "rows": "4",
           "desktop_grid": "4",
-          "mobile_grid": "2",
-          "collection_banner": "shopify:\/\/shop_images\/December-offers_SE.jpg",
-          "collection_banner_mobile": "shopify:\/\/shop_images\/December-offers_mobile_SE.jpg",
-          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_SE_ec4362ad-0db2-4404-bb38-f961c844a347.jpg",
-          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_SE_6e7fc592-c597-418c-9829-81b0173022a3.jpg"
+          "mobile_grid": "2"
         }
       },
       "dbtfy-collection-filters": {
