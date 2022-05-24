@@ -23,11 +23,14 @@
 
         <a href="{%- if block.settings.announcement_link != blank -%}{{ block.settings.announcement_link }} {%- else -%} / {%- endif -%} " class="announcement-message-item announcement-{{ block.id }}  flex justify-center align-center" {{ block.shopify_attributes }}>
       
-            {%- unless block.settings.announcement_text == blank -%}
-              <div class="announcement-message"> 
-              {{ block.settings.announcement_text }}
-            </div>
-            {%- endunless -%}
+          {%- unless block.settings.announcement_text == blank -%}
+          <div class="announcement-message"> 
+              {% unless block.settings.icon_selector == 'none' %}
+              <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
+            {% endunless %}
+          {{ block.settings.announcement_text }}
+        </div>
+        {%- endunless -%}
 
             {%- unless block.settings.announcement_counter == blank -%}
             <div id="announcement_counter" class="announcement_counter  flex justify-start align-center" data-announcement-date="{{ block.settings.announcement_counter}}">
@@ -135,6 +138,54 @@
             "id": "announcement_text",
             "label": "Text",
             "default": "<p>Free shipping worldwide | 30-Day free returns</p>"
+          },
+          {
+            "type": "select",
+            "id": "icon_selector",
+            "label": "Select icon",
+            "options": [
+              {
+                "value": "none",
+                "label": "None"
+              },
+              {
+                "value": "truck",
+                "label": "Truck"
+              },
+              {
+                "value": "checkmark",
+                "label": "Checkmark"
+              },
+              {
+                "value": "return",
+                "label": "Return"
+              },
+              {
+                "value": "smily",
+                "label": "Smily"
+              },
+              {
+                "value": "discount",
+                "label": "Discount"
+              },
+              {
+                "value": "cards",
+                "label": "Cards"
+              },
+              {
+                "value": "heart",
+                "label": "Customer service"
+              },
+              {
+                "value": "headphones",
+                "label": "Customer service headphones"
+              },
+              {
+                "value": "star",
+                "label": "Star"
+              }
+            ],
+            "default": "none"
           },
           {
             "type": "text",

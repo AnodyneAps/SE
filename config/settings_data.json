@@ -27,6 +27,7 @@
     "page_wrapper": "1248",
     "payment_icon_size": 24,
     "sale_type": "percentage",
+    "browsing_link": "shopify:\/\/collections\/alla-produkter",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
     "color_announcement_bg": "#ff891d",
@@ -109,7 +110,7 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
-    "dbtfy_agree_text": "<p>Jag accepterar Anodynes försäljningsvillkor och persondatapolicy<\/p>",
+    "dbtfy_agree_text": "<p>Jag accepterar Anodynes <a href=\"https:\/\/www.anodyne.se\/policies\/terms-of-service\" title=\"https:\/\/www.anodyne.se\/policies\/terms-of-service\">försäljningsvillkor<\/a> och <a href=\"https:\/\/www.anodyne.se\/policies\/privacy-policy\" title=\"https:\/\/www.anodyne.se\/policies\/privacy-policy\">persondatapolicy<\/a><\/p>",
     "dbtfy_agree_warning_text": "<p>Du måste acceptera<\/p>",
     "dbtfy_agree_order_title": "Jag accepterar Anodynes försäljningsvillkor och persondatapolicy",
     "dbtfy_agree_order_yes_answer": "Ja",
@@ -482,7 +483,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\" title=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\"><strong>Spara upp till <\/strong><span style=\"text-decoration:underline\"><strong>40%<\/strong><\/span><strong> på alla produkter<\/strong><\/a><\/p>",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\" title=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\"><strong>Spara upp till <\/strong><span style=\"text-decoration:underline\"><strong>40 %<\/strong><\/span><strong> på alla produkter<\/strong><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""

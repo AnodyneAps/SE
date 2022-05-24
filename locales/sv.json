@@ -309,7 +309,7 @@
       "sold_out": "Slutsåld",
       "sold_out_html": "Slutsåld",
       "unavailable": "Ej tillgänglig",
-      "quantity": "Pris per enhet",
+      "quantity": "Välj antal",
       "add_to_cart": "Lägg till i varukorgen",
       "replace": "Byta ut",
       "full_details": "All information",
@@ -334,7 +334,7 @@
       "tab-delivery": "Frakt och leverans"
     },
     "radios": {
-      "radio-one": "Köp",
+      "radio-one": "",
       "radio-save-amount": "Spara"
     },
     "sizes": {
