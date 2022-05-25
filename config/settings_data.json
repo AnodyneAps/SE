@@ -483,15 +483,49 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\" title=\"https:\/\/www.anodyne.se\/collections\/alla-produkter\"><strong>Spara upp till <\/strong><span style=\"text-decoration:underline\"><strong>40 %<\/strong><\/span><strong> på alla produkter<\/strong><\/a><\/p>",
+              "announcement_text": "<p>Och gratis frakt vid köp över 595 SEK.<\/p>",
+              "icon_selector": "truck",
               "announcement_counter": "",
+              "announcemen_link": "https:\/\/www.anodyne.se\/collections\/alla-produkter",
+              "announcement_end_text": ""
+            }
+          },
+          "4d7564c9-8e6c-4174-aaae-b7d75f7a5574": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Det är gratis att byta\/returnera alla produkter<\/p>",
+              "icon_selector": "return",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "a3d60e11-b2c1-4687-be92-734dc1def217": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Välj att betala inom 30 dagar eller om ett par månader.<\/p>",
+              "icon_selector": "smily",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "fa3c8d23-65e8-481a-8bb9-959e9781e582": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>30 dagars full returrätt<\/p>",
+              "icon_selector": "checkmark",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "4d7564c9-8e6c-4174-aaae-b7d75f7a5574",
+          "a3d60e11-b2c1-4687-be92-734dc1def217",
+          "fa3c8d23-65e8-481a-8bb9-959e9781e582"
         ],
         "settings": {
           "show_announcement": true,
@@ -877,7 +911,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">Anodyne®<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Förbättra din hållning och slipp ryggsmärtor. 100% kundnöjdhetsgaranti! <\/strong><\/p>",
+          "text_description": "<p><strong>Spara upp till <\/strong><span style=\"text-decoration:underline\"><strong>40 %<\/strong><\/span><strong> på alla produkter<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Kvinnor",
           "button_link": "shopify:\/\/collections\/kvinnor",
