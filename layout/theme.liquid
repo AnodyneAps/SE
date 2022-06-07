@@ -77,7 +77,7 @@
     <link rel="preload" as="font" href="{{ base_family | font_url }}" type="font/woff2" crossorigin>
     <link rel="preload" as="font" href="{{ settings.icon | append: ".woff2" | asset_url }}" type="font/woff2" crossorigin>
     <link rel="preload" href="{{ "jquery-2.2.3.min.js" | asset_url }}" as="script">
-    <link rel="preload" href="{{ "theme..min.js" | asset_url }}" as="script">
+    <link rel="preload" href="{{ "theme.min.js" | asset_url }}" as="script">
     <link rel="preload" href="{{ "lazysizes.min.js" | asset_url }}" as="script">
 
     {%- if content_for_header contains "debutify" -%}
@@ -267,7 +267,7 @@
   {% if content_for_header contains 'rio.pwztag.com' %}{% render 'productwiz-rio', product: product, shop: shop, installGuard: true %}{% endif %}
 
 <!-- Start Tidio script -->
-<script src="//code.tidio.co/lk2k8thw2c7wankwuezqeb1roj0gizpn.js" async></script>
+<!-- <script src="//code.tidio.co/lk2k8thw2c7wankwuezqeb1roj0gizpn.js" async></script> -->
 <!-- End of Tidio script -->
 
 <!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
@@ -385,6 +385,5 @@
     {%- if request.page_type == "product" -%}
     <script src="{{ 'se-counter.js' | asset_url }}" ></script>
     {%- endif -%}
-  {% render 'awesome-quantity', product: product %}
 </body>
 </html>
