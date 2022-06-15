@@ -486,7 +486,7 @@
               "announcement_text": "<p>Gratis frakt vid köp över 595 SEK<\/p>",
               "icon_selector": "truck",
               "announcement_counter": "",
-              "announcemen_link": "https:\/\/www.anodyne.se\/collections\/alla-produkter",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -496,7 +496,7 @@
               "announcement_text": "<p>Shoppa med Klarna<\/p>",
               "icon_selector": "smily",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -506,7 +506,7 @@
               "announcement_text": "<p>Gratis att byta\/returnera alla produkter<\/p>",
               "icon_selector": "return",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -516,7 +516,7 @@
               "announcement_text": "<p>30 dagars full returrätt<\/p>",
               "icon_selector": "checkmark",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           }
@@ -1406,7 +1406,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Hur länge håller min Anodyne®-produkt?",
-              "text": "<p>Livslängden på din Anodyne-produkt beror på hur du behandlar plagget samt hur mycket du bär den. Liksom alla andra kläder, kommer dessa kläder också att visa tecken på slitage beroende på hur ofta du bär dem.<\/p><p>Det är viktigt att du följer klädvårdsinstruktionerna. Vi rekommenderar handtvätt, men det kan också maskintvättas, men inte mer än 30 grader. Produkten får inte torktumlas<br\/>eftersom det kommer att förstöra NeuroBands, vilket är den teknik som är inbyggd i plagget och det som kommer att supportera din kropp när din hållning inte är optimal.<\/p><p>Om du tar hand om produkten enligt vårdinstruktionerna bör produkten varas mellan 6 månader och 2 år.<\/p>"
+              "text": "<p>Livslängden på din Anodyne-produkt beror på hur du behandlar plagget samt hur mycket du bär den. Liksom alla andra kläder, kommer dessa kläder också att visa tecken på slitage beroende på hur ofta du bär dem.<\/p><p>Det är viktigt att du följer klädvårdsinstruktionerna. Vi rekommenderar handtvätt. Produkten får inte torktumlas<br\/>eftersom det kommer att förstöra NeuroBands, vilket är den teknik som är inbyggd i plagget och det som kommer att supportera din kropp när din hållning inte är optimal.<\/p><p>Om du tar hand om produkten enligt vårdinstruktionerna bör produkten varas mellan 6 månader och 2 år.<\/p>"
             }
           },
           "c107e97a-0d49-47f1-8c73-a4e1c7d244cb": {
@@ -1492,7 +1492,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Hur kan jag bäst ta hand om mina Anodyne®-produkter?",
-              "text": "<p>Posture Shirt™ och AlignMe Bra kan handtvättas eller maskin tvättas vid 30 grader. Det är viktigt att produkterna inte torktumlas, det kommer att förstöra NeuroBandens effektivitet. Sköljmedel bör inte användas, eftersom det kommer att minska NeuroBands prestanda.<\/p>"
+              "text": "<p>Posture Shirt™ och AlignMe Bra kan handtvättas vid 30 grader. Det är viktigt att produkterna inte torktumlas, det kommer att förstöra NeuroBandens effektivitet. Sköljmedel bör inte användas, eftersom det kommer att minska NeuroBands prestanda.<\/p>"
             }
           },
           "4f9b7c78-7128-4f73-a8e3-7b89d7000926": {
