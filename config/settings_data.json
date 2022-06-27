@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/alla-produkter",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#ff891d",
+    "color_announcement_bg": "#252525",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -236,9 +236,9 @@
             "type": "cart-break",
             "settings": {
               "cart_break_range": 2,
-              "cart_break_discount_code": "",
-              "cart_break_discount_amount": "",
-              "cart_break_discount_type": "%"
+              "cart_break_discount_code": "Test",
+              "cart_break_discount_amount": "95",
+              "cart_break_discount_type": "$"
             }
           }
         },
@@ -263,9 +263,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -273,9 +273,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -283,9 +283,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -293,9 +293,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -303,9 +303,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -313,9 +313,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -323,9 +323,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -333,9 +333,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -343,9 +343,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -353,9 +353,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -363,9 +363,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-vit",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -373,9 +373,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -383,9 +383,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -393,9 +393,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 40 %<\/strong> på en Hållningssele (normalpris 495 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "<strong>Veckans erbjudande! <\/strong>Vill du spara<strong> 50 kr<\/strong> på en Hållningssele (normalpris 395 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "haallningssele",
+              "dbtfy_cart_specific_upsell_product_offer": "hallningssele-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja tack"
             }
           },
@@ -483,15 +483,16 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Gratis frakt vid köp över 595 SEK<\/p>",
-              "icon_selector": "truck",
+              "announcement_text": "<p><span style=\"text-decoration:underline\">Klicka här<\/span> och få 10 % extra rabatt<\/p>",
+              "icon_selector": "none",
               "announcement_counter": "",
-              "announcement_link": "",
+              "announcement_link": "shopify:\/\/pages\/anodyne-rabattkode",
               "announcement_end_text": ""
             }
           },
           "a3d60e11-b2c1-4687-be92-734dc1def217": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Shoppa med Klarna<\/p>",
               "icon_selector": "smily",
@@ -502,6 +503,7 @@
           },
           "4d7564c9-8e6c-4174-aaae-b7d75f7a5574": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Gratis att byta\/returnera alla produkter<\/p>",
               "icon_selector": "return",
@@ -512,6 +514,7 @@
           },
           "fa3c8d23-65e8-481a-8bb9-959e9781e582": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>30 dagars full returrätt<\/p>",
               "icon_selector": "checkmark",
@@ -688,10 +691,12 @@
         "settings": {
           "show_social_media": false,
           "social_title": "Follow-us on social media!",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Danmark . VAT-nummer: SE502078097801.<\/p>"
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Danmark . VAT-nummer: SE502078097801.<\/p>",
+          "bottom_counter_text": "Vi skickar ditt paket inom",
+          "show_bottom_counter": true
         }
       },
       "product-template": {
@@ -1257,7 +1262,10 @@
           "dbtfy_product_description_position": "separate_section",
           "description_style": "section-border",
           "text_alignment": "text-center",
-          "text_alignment_mobile": "small--text-center"
+          "text_alignment_mobile": "small--text-center",
+          "show_instead_of_counter_text": true,
+          "instead-of-counter-text": "<p><strong>Klicka hä<\/strong>r och få <strong>10 %<\/strong> extra rabatt<\/p>",
+          "instead-of-counter-link": "shopify:\/\/pages\/anodyne-rabattkode"
         }
       },
       "product-cards": {
